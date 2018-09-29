@@ -6,16 +6,9 @@
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sammykins777/blurEffect.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sammykins777/blurEffect/issues"
-  },
-  "homepage": "https://sammykins777.github.io/blurEffect",
+  "homepage": "https://sammykins777.github.io/blureffect",
   "dependencies": {
     "gh-pages": "^2.0.0"
   }
